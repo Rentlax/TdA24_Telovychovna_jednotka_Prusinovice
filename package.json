@@ -17,5 +17,10 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.22"
-  }
+  },
+  "description": "- [NodeJS](https://nodejs.org) LTS (verze 18+)\r - npm (TODO: odstranit yarn.lock)\r - (Na Windows) [WSL 2](https://learn.microsoft.com/en-us/windows/wsl/install)\r - [Docker](https://www.docker.com/) (pro odeslání)",
+  "main": "app.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
