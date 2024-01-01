@@ -16,7 +16,7 @@
     "sqlite3": "^5.1.4"
   },
   "devDependencies": {
-    "nodemon": "^2.0.22"
+    "nodemon": "^3.0.2"
   },
   "description": "- [NodeJS](https://nodejs.org) LTS (verze 18+)\r - npm (TODO: odstranit yarn.lock)\r - (Na Windows) [WSL 2](https://learn.microsoft.com/en-us/windows/wsl/install)\r - [Docker](https://www.docker.com/) (pro odeslání)",
   "main": "app.js",
